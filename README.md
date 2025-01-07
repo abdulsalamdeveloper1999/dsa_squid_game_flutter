@@ -76,7 +76,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For any queries or collaboration ideas, feel free to reach out:  
 - **Email**: abdulsalamdev1999@gmail.com  
-- **GitHub**: [abdulsalamdeveloper1999](https://github.com/abdulsalam1999)  
+- **GitHub**: [abdulsalamdeveloper1999](https://github.com/abdulsalamdeveloper1999)  
 
 ---
 
